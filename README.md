@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm MOCH IQBAL AR RASYID</h1>
-<h3 align="center">I'm A Fullstack Web Developer</h3>
+<h3 align="center">I'm A Fullstack Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingrootid&label=Profile%20views&color=0e75b6&style=flat" alt="kingrootid" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingrootid" alt="kingrootid" /></a> </p>
 
-- 🔭 I’m currently working on **PT. Lyrid Prima Indonesia**
+- 🔭 I’m currently working on **Digital Alfa Kreasi (Indonesia)**
 
-- 🌱 I’m currently learning **Laravel, Codeigniter 3, Express JS, Sequelize, MySQL, Postgres, Docker, Apache2**
+- 🌱 I’m currently learning **Laravel, Codeigniter 3, Express JS, Sequelize, MySQL, Postgres, Docker, Apache2, NestJS, ReactJS, NextJS, React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kingrootid?tab=repositories](https://github.com/kingrootid?tab=repositories)
 
