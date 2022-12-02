@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MOCH IQBAL AR RASYID</h1>
-<h3 align="center">I'm A Fullstack Engineer</h3>
+<h3 align="center">I'm A Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingrootid&label=Profile%20views&color=0e75b6&style=flat" alt="kingrootid" /> </p>
 
