@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingrootid" alt="kingrootid" /></a> </p>
 
-- 🔭 I’m currently working on **Simantep Digital Group (Indonesia)**
+- 🔭 I’m currently working on **PT. Bank Raya Indonesia (Indonesia)**
 
-- 🌱 I’m experience in **Laravel, Codeigniter 3, Express JS, Sequelize, MySQL, Postgres, Docker, Apache2, NestJS, ReactJS, NextJS, React Native**
+- 🌱 I’m experience in **Laravel, Codeigniter 3, Express JS, Sequelize, MySQL, Postgres, Docker, Apache2, NestJS, ReactJS, NextJS, React Native, Golang**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kingrootid?tab=repositories](https://github.com/kingrootid?tab=repositories)
 
-- 📄 Progress Learning **Spring Boot, NestJs, DevOps, CI/CD, React Native, Golang, TailwindCss**
+- 📄 Progress Learning **Spring Boot, Python**
 
 - 📫 How to reach me **dustwork.id@gmail.com**
 
